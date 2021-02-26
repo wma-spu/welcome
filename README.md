@@ -1,8 +1,8 @@
-# Welcome to DS-542 - Python in Data Science
+# Welcome to DS-610 - Big Data Analytics
 
 ![hadoop-spark](hadoop-spark.png)
 
-- [Welcome to DS-542 - Python in Data Science](#welcome-to-ds-542---python-in-data-science)
+- [Welcome to DS-610 - Big Data Analytics](#welcome-to-ds-610---big-data-analytics)
   - [Introduction](#introduction)
   - [Concepts & Tools](#concepts--tools)
     - [Git](#git)
