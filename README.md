@@ -138,8 +138,6 @@ We use Github Classroom for assignments. Basically, how it works is described in
 7. I read it after the deadline passes, and give you a big `0`.
 8. Ignore the 7th step, you will be graded properly.
 
-We will also have an online interactive book for some assignments. Using [Runestone](https://runestone.academy/), we will utilize interactivitiy on the textbook level. I created a course for our class, you should [register](https://runestone.academy/runestone/default/user/register) to Runestone and then [find our course](https://runestone.academy/runestone/default/courses), named as `DS-542`.
-
 ## Todo List
 
 <!-- A list of items for student to follow -->
@@ -157,7 +155,8 @@ We will also have an online interactive book for some assignments. Using [Runest
     - [ ] [Participate](https://github.com/spu-bigdataanalytics-211/welcome/issues) in final project discussion!
     ```
 3. Tick all checkmarks.
-4. That's it.
+4. As a practice, **download your repository** and **upload it to blackboard** as your first assignment!
+5. That's it.
 
 ## Conclusion
 
