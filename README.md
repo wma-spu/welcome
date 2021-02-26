@@ -144,7 +144,7 @@ We will also have an online interactive book for some assignments. Using [Runest
 
 <!-- A list of items for student to follow -->
 
-1. Create a new issue in this repository using this [link](https://github.com/spu-bigdataanalytics-211/issues/new).
+1. Create a new issue in this repository using this [link](https://github.com/spu-bigdataanalytics-211/welcome/issues/new).
 2. Name the issue with your name, like this `I, METIN SENTURK, read and understand the guides`.
 2. Copy the following text and paste into the issue message.
 
