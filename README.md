@@ -144,7 +144,7 @@ We will also have an online interactive book for some assignments. Using [Runest
 
 <!-- A list of items for student to follow -->
 
-1. Create a new issue in this repository using this [link](https://github.com/spu-bigdataanalytics-201/issues/new).
+1. Create a new issue in this repository using this [link](https://github.com/spu-bigdataanalytics-211/issues/new).
 2. Name the issue with your name, like this `I, METIN SENTURK, read and understand the guides`.
 2. Copy the following text and paste into the issue message.
 
@@ -152,9 +152,9 @@ We will also have an online interactive book for some assignments. Using [Runest
     - [x] You will mark things you did in this list, like this one.
     - [ ] Go over on this README file, entirely.
     - [ ] Go over the links in [the things you need to prepared for](#concepts--tools) section.
-    - [ ] Review the [commit history](https://github.com/spu-bigdataanalytics-201/welcome/commits/main) on this repository.
-    - [ ] Go over and **read carefully about how to do and submit your assignments** [section](https://github.com/spu-bigdataanalytics-201/welcome#how-you-will-do-assignments).
-    - [ ] [Participate](https://github.com/spu-bigdataanalytics-201/welcome/issues) in final project discussion!
+    - [ ] Review the [commit history](https://github.com/spu-bigdataanalytics-211/welcome/commits/main) on this repository.
+    - [ ] Go over and **read carefully about how to do and submit your assignments** [section](https://github.com/spu-bigdataanalytics-211/welcome#how-you-will-do-assignments).
+    - [ ] [Participate](https://github.com/spu-bigdataanalytics-211/welcome/issues) in final project discussion!
     ```
 3. Tick all checkmarks.
 4. That's it.
