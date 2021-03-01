@@ -6,8 +6,23 @@ time: Wednesday 06:00PM - 09:25PM
 office hour: By Appointment
 ---
 # DS-610 - Big Data Analytics
+
 ## Course Description
-<!-- TODO: fill me up -->
+
+Big Data (Structured, semi-structured, & unstructured) refers to large datasets that are challenging to store, search, share, visualize, and analyze. 
+
+Gathering and analyzing these large data sets are quickly becoming a key basis of competition. This course explores several key technologies used in acquiring, organizing, storing, and analyzing big data. 
+
+Topics covered include 
+
+- Hadoop 
+- unstructured data concepts (key-value)
+- Map Reduce technology
+- Pig and Hive
+- NoSQL storage solutions like HBase, Cassandra, and Oracle NoSQL and analytics for big data. 
+
+A part of the course is devoted to public Cloud as a resource for big data analytics. The objective of the course is for students to gain the ability to employ the latest tools, technologies and techniques required to analyze, debug, iterate and optimize the analysis to infer actionable insights from Big Data.
+
 ## Prerequisites
 
 This course requires following courses to be taken before this course.
@@ -16,28 +31,36 @@ This course requires following courses to be taken before this course.
 - Data Analysis and Decision Modeling (DS-520) 
 - Big Data & Data Management (DS-530) 
 
-Check out more information about the prerequisites on [curriculum of the SPU's data science](https://www.saintpeters.edu/academics/graduate-programs/master-of-science-in-data-science/curriculum/).
-
 ## Learning Outcomes
-<!-- TODO: fill me up -->
+
+This course aims to teach you the following concepts.
+
+- Understand the challenges comes with big datasets.
+- Learn and use new algorithms to analyze large datasets
+- Gain experience in tackling complex level big data problem
+- Learn the big data ecosystem and be able to understand it's tools and methods.
+
 ## Textbooks & Tools
+
 <!-- TODO: fill me up -->
 
 ## Course Outline
-<!-- TODO: fill me up -->
-| Week    | Tasks | Description |
-| ------- | ----- | ----------- |
-| Week 01 |       |
-| Week 02 |       |
-| Week 03 |       |
-| Week 04 |       |
-| Week 05 |       |
-| Week 06 |       |
-| Week 07 |       |
-| Week 08 |       |
-| Week 09 |       |
-| Week 10 |       |
-| Week 11 |       |
+
+Below are the distribution of content and assignments for the semester.
+
+| Week    | Tasks                     | Description                                                                 |
+| ------- | ------------------------- | --------------------------------------------------------------------------- |
+| Week 01 | Assignment0               | Python Warmup                                                               |
+| Week 02 | Assignment1               | Introduction to parallelism                                                 |
+| Week 03 |                           | Introduction to clustering systems, MongoDB, and Cassandra, Cloud Computing |
+| Week 04 | Assignment2               | Map-Reduce Algorithm                                                        |
+| Week 05 |                           | Spark and Hadoop Ecosystem. Understanding Spark architecture.               |
+| Week 06 | Assignment3               | Spark API Introduction (RDDs, Accumulators, Broadcast variables, Dataframe) |
+| Week 07 | Exam, Final Project Start | Midterm (Everything upto Spark), FP Start                                   |
+| Week 08 |                           | Spark Examples 1 (RDD and Dataframe), FP Session 1                          |
+| Week 09 |                           | Spark Examples 2 (Machine Learning), FP Session 2                           |
+| Week 10 |                           | Spark Examples 3, FP Session 3                                              |
+| Week 11 | Final Project End         | Final Project Presentations, What's Next                                    |
 
 ## Grade Determination
 
