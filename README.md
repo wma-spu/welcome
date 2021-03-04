@@ -84,6 +84,13 @@ Even tough are a lot of online resoources available to make the most out of VSCo
 
 There are alternatives of course, you are welcome to use those as well. The point is an IDE will make your life much easier if you choose to use one!
 
+Alternatives
+
+- [Atom](https://atom.io/)
+- [Notepad++](https://notepad-plus-plus.org/) (I use it as an advanced Notepad, rather than an IDE) 
+- [Sublime](https://www.sublimetext.com/)
+- And many, many more over [here](https://www.google.com/search?q=integrated+development+editor).
+
 Development tools from your browser!
 
 - [Your instant dev environment in GitHub](https://github.com/features/codespaces)
