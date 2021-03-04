@@ -42,7 +42,15 @@ This course aims to teach you the following concepts.
 
 ## Textbooks & Tools
 
-<!-- TODO: fill me up -->
+Book we will follow for Spark. You can find it [here](https://www.apress.com/gp/book/9781484231401).
+
+``` yaml
+Title: PySpark Recipes
+Author(s): Raju Kumar Mishra
+Release date: 2018
+Publisher(s): Apress
+ISBN: 978-1-4842-3141-8
+```
 
 ## Course Outline
 
