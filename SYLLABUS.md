@@ -101,6 +101,13 @@ Based on the [Grade Determination](#grade-determination), a final letter grade w
 | 60  | 72  | C     |
 | 0   | 59  | F     |
 
+## Attendence Policy
+
+Due to COVID-19, there is no restriction on attending the lecture, however, attending the classes will benefit on your learning curve a lot more instead of watching lectures online. As said, here are the guides:
+
+- We record the classes and you can always revisit or watch previous classes. Links will be shared.
+- When attending to class, please keep your **camera on** and your **microphone off**.
+
 ## Academic Honesty and Student Conduct
 
 Students need to submit **only their own original work** (e.g. Code, PPT, figures, visualizations…). Student need to familiarize themselves with the academic rules of the University. In case a student is found guilty under the act of plagiarism, his/her test or assignment will be graded zero. 
