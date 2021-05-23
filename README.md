@@ -145,9 +145,10 @@ Some assignments will have autograding enabled, which will run some tests agains
 
 Let's see this in [spu-bigdataanalytics-212/assignment-0-metinsenturk](https://github.com/spu-bigdataanalytics-212/assignment-0-metinsenturk/) sample repository.
 
-1. [Here is the version](https://github.com/spu-bigdataanalytics-212/assignment-0-metinsenturk/tree/57f23ecb7ff32bb62514432f0e1dd0575e4a5e78) right after it gets created. At this point, tests are failing.
-2. After adding necessary code, GitHub runs the test code.
-3. Result of the test code appears [here](https://github.com/spu-bigdataanalytics-212/assignment-0-metinsenturk/runs/2651023019) under `Run education/autograding@v1` group.
+1. [Here is the version](https://github.com/spu-bigdataanalytics-212/assignment-0-metinsenturk/tree/57f23ecb7ff32bb62514432f0e1dd0575e4a5e78) of this repo right after it gets created. 
+2. At this point, [tests](https://github.com/spu-bigdataanalytics-212/assignment-0-metinsenturk/runs/2651016640) are failing, since we just created it.
+3. After adding necessary code, GitHub runs the test code.
+4. Result of the test code appears [here](https://github.com/spu-bigdataanalytics-212/assignment-0-metinsenturk/runs/2651023019) under `Run education/autograding@v1` group.
 
 Check out more about this in [assignment-0-metinsenturk/actions](https://github.com/spu-bigdataanalytics-212/assignment-0-metinsenturk/actions).
 
