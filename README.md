@@ -142,7 +142,7 @@ We use Github Classroom for assignments. Basically, how it works is described in
 
 <!-- A list of items for student to follow -->
 
-1. Create a new issue in this repository using this [link](https://github.com/spu-bigdataanalytics-211/welcome/issues/new).
+1. Create a new issue in this repository using this [link](https://github.com/spu-bigdataanalytics-212/welcome/issues/new).
 2. Name the issue with your name, like this `I, METIN SENTURK, read and understand the guides`.
 2. Copy the following text and paste into the issue message.
 
@@ -150,9 +150,9 @@ We use Github Classroom for assignments. Basically, how it works is described in
     - [x] You will mark things you did in this list, like this one.
     - [ ] Go over on this README file, entirely.
     - [ ] Go over the links in [the things you need to prepared for](#concepts--tools) section.
-    - [ ] Review the [commit history](https://github.com/spu-bigdataanalytics-211/welcome/commits/main) on this repository.
-    - [ ] Go over and **read carefully about how to do and submit your assignments** [section](https://github.com/spu-bigdataanalytics-211/welcome#how-you-will-do-assignments).
-    - [ ] [Participate](https://github.com/spu-bigdataanalytics-211/welcome/issues) in final project discussion!
+    - [ ] Review the [commit history](https://github.com/spu-bigdataanalytics-212/welcome/commits/main) on this repository.
+    - [ ] Go over and **read carefully about how to do and submit your assignments** [section](https://github.com/spu-bigdataanalytics-212/welcome#how-you-will-do-assignments).
+    - [ ] [Participate](https://github.com/spu-bigdataanalytics-212/welcome/issues) in final project discussion!
     ```
 3. Tick all checkmarks.
 4. As a practice, **download your repository** and **upload it to blackboard** as your first assignment!

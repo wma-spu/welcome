@@ -2,7 +2,7 @@
 instructor: Metin Senturk
 email: msenturk@saintpeters.edu
 location: Online, Room WEB
-time: Wednesday 06:00PM - 09:25PM
+time: Tuesday 06:00PM - 09:25PM
 office hour: By Appointment
 ---
 # DS-610 - Big Data Analytics
@@ -56,19 +56,23 @@ ISBN: 978-1-4842-3141-8
 
 Below are the distribution of content and assignments for the semester.
 
-| Week    | Tasks                     | Description                                                                 |
-| ------- | ------------------------- | --------------------------------------------------------------------------- |
-| Week 01 | Assignment0               | Python Warmup                                                               |
-| Week 02 | Assignment1               | Introduction to parallelism                                                 |
-| Week 03 |                           | Introduction to clustering systems, MongoDB, and Cassandra, Cloud Computing |
-| Week 04 | Assignment2               | Map-Reduce Algorithm                                                        |
-| Week 05 |                           | Spark and Hadoop Ecosystem. Understanding Spark architecture.               |
-| Week 06 | Assignment3               | Spark API Introduction (RDDs, Accumulators, Broadcast variables, Dataframe) |
-| Week 07 | Exam, Final Project Start | Midterm (Everything upto Spark), FP Start                                   |
-| Week 08 |                           | Spark Examples 1 (RDD and Dataframe), FP Session 1                          |
-| Week 09 |                           | Spark Examples 2 (Machine Learning), FP Session 2                           |
-| Week 10 |                           | Spark Examples 3, FP Session 3                                              |
-| Week 11 | Final Project End         | Final Project Presentations, What's Next                                    |
+| Week    | Tasks                  | Description                                                                 |
+| ------- | ---------------------- | --------------------------------------------------------------------------- |
+| Week 01 | Assignment0            | Python Warmup                                                               |
+| Week 02 | Assignment1            | Introduction to parallelism                                                 |
+| Week 03 | FP Kickoff             | Introduction to clustering systems, MongoDB, and Cassandra, Cloud Computing |
+| Week 04 | FP Review              | Map-Reduce Algorithm                                                        |
+| Week 05 | Assignment2, FP Review | Spark and Hadoop Ecosystem. Understanding Spark architecture.               |
+| Week 06 | FP Review              | Spark API Introduction (RDDs, Accumulators, Broadcast variables, Dataframe) |
+| Week 07 | Midterm                | Midterm (Everything upto Spark), FP Start                                   |
+| Week 08 | FP Review              | Spark Examples 1 (RDD and Dataframe), FP Session 1                          |
+| Week 09 | Assignment3, FP Review | Spark Examples 2 (Machine Learning), FP Session 2                           |
+| Week 10 | Final                  | Spark Examples 3, FP Session 3                                              |
+| Week 11 | FB Presentations       | Final Project Presentations, What's Next                                    |
+
+
+- <sub>FB stands for `Final Project`.</sub>
+
 
 ## Grade Determination
 
