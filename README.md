@@ -152,10 +152,21 @@ Let's see this in [spu-bigdataanalytics-212/assignment-0-metinsenturk](https://g
 
 Check out more about this in [assignment-0-metinsenturk/actions](https://github.com/spu-bigdataanalytics-212/assignment-0-metinsenturk/actions).
 
-You can also test your code before upload using [unittest](https://docs.python.org/3/library/unittest.html) package.
+You can also test your code in your local computer before upload using [unittest](https://docs.python.org/3/library/unittest.html) package.
 
 > python -m unittest -v test_my_code.py 
 
+If all goes well, this will print something like this.
+
+```
+test_import_module (test_my_code.TestMyCode) ... ok
+test_number_of_functions (test_my_code.TestMyCode) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.001s
+
+OK
+```
 
 ## Todo List
 
