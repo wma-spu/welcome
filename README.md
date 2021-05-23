@@ -142,21 +142,14 @@ We use Github Classroom for assignments. Basically, how it works is described in
 
 <!-- A list of items for student to follow -->
 
-1. Create a new issue in this repository using this [link](https://github.com/spu-bigdataanalytics-212/welcome/issues/new).
-2. Name the issue with your name, like this `I, METIN SENTURK, read and understand the guides`.
-2. Copy the following text and paste into the issue message.
-
-    ``` md
-    - [x] You will mark things you did in this list, like this one.
-    - [ ] Go over on this README file, entirely.
-    - [ ] Go over the links in [the things you need to prepared for](#concepts--tools) section.
-    - [ ] Review the [commit history](https://github.com/spu-bigdataanalytics-212/welcome/commits/main) on this repository.
-    - [ ] Go over and **read carefully about how to do and submit your assignments** [section](https://github.com/spu-bigdataanalytics-212/welcome#how-you-will-do-assignments).
-    - [ ] [Participate](https://github.com/spu-bigdataanalytics-212/welcome/issues) in final project discussion!
-    ```
-3. Tick all checkmarks.
-4. As a practice, **download your repository** and **upload it to blackboard** as your first assignment!
-5. That's it.
+1. Make a python file with name `my_code.py`.
+2. Create at least 2 functions for practice.
+3. Check out [test_my_code.py](test_my_code.py) file. This file will test your code once you upload to GitHub!
+4. Upload to GitHub once you are done.
+5. Go to your repository and check `Actions` tab. After every commit you make, GitHub runs `test_my_code.py` file to validate if your code is satisfactory. See example of an output in my [assignment-0-metinsenturk/actions](https://github.com/spu-bigdataanalytics-212/assignment-0-metinsenturk/actions).
+6. Click the green button at the top of the repo, and do `Download ZIP`.
+7. As a practice, **download your repository** and **upload it to blackboard** as your first assignment!
+8. That's it.
 
 ## Conclusion
 
