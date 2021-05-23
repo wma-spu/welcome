@@ -13,6 +13,7 @@
     - [Google Colab](#google-colab)
   - [Installing Spark](#installing-spark)
   - [How You Will Do Assignments](#how-you-will-do-assignments)
+  - [How Does Autograder Work?](#how-does-autograder-work)
   - [Todo List](#todo-list)
   - [Conclusion](#conclusion)
 
@@ -137,6 +138,23 @@ We use Github Classroom for assignments. Basically, how it works is described in
 6. When you are done with the assignment, you go back to your repository, and **download** it as ZIP, and upload it to the [blackboard](https://saintpeters.blackboard.com/).
 7. I read it after the deadline passes, and give you a big `0`.
 8. Ignore the 7th step, you will be graded properly.
+
+## How Does Autograder Work?
+
+Some assignments will have autograding enabled, which will run some tests against your code. If you successfully complete all parts of the assignment, these checks will pass, if not you will get an error stating what failed.
+
+Let's see this in [spu-bigdataanalytics-212/assignment-0-metinsenturk](https://github.com/spu-bigdataanalytics-212/assignment-0-metinsenturk/) sample repository.
+
+1. [Here is the version](https://github.com/spu-bigdataanalytics-212/assignment-0-metinsenturk/tree/57f23ecb7ff32bb62514432f0e1dd0575e4a5e78) right after it gets created. At this point, tests are failing.
+2. After adding necessary code, GitHub runs the test code.
+3. Result of the test code appears [here](https://github.com/spu-bigdataanalytics-212/assignment-0-metinsenturk/runs/2651023019) under `Run education/autograding@v1` group.
+
+Check out more about this in [assignment-0-metinsenturk/actions](https://github.com/spu-bigdataanalytics-212/assignment-0-metinsenturk/actions).
+
+You can also test your code before upload using [unittest](https://docs.python.org/3/library/unittest.html) package.
+
+> python -m unittest -v test_my_code.py 
+
 
 ## Todo List
 
