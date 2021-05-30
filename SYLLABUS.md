@@ -80,9 +80,10 @@ The items that student is responsible for this class is the following. Students 
 
 | Item          | Percentage |
 | ------------- | ---------- |
-| Assignments   | 30 %       |
+| Assignments   | 20 %       |
 | Projects      | 30 %       |
-| Exam          | 30 %       |
+| Midterm       | 20 %       |
+| Final         | 20 %       |
 | Participation | 10 %       |
 | Bonus (Maybe) | 10 %       |
 
